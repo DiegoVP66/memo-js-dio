@@ -13,6 +13,8 @@
 - Total de vidas.
 - Mensagem de vitória e derrota.
 
+
+// not mobile optimized
 Deploy: https://diegovp66.github.io/memo-js-dio/
 
 ##Imagens do projeto
